@@ -9,7 +9,7 @@ permalink: >
   http://anas.eu-west-1.elasticbeanstalk.com/blog/software-engineer-preparation-introduction/
 published: true
 views:
-  - "0"
+  - "3"
 ---
 <h1 dir="rtl">سلسة الإعداد لوظيفة مهندس برمجيات للعمل لدى واحدة من الشركات العملاقة</h1>
 
