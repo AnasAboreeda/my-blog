@@ -12,9 +12,10 @@ permalink: >
   http://anas.eu-west-1.elasticbeanstalk.com/blog/software-engineer-preparation-intro-2/
 published: true
 views:
-  - "1"
+  - "3"
 ---
-<h2 dir="rtl">&nbsp;<span style="font-weight: 400;">إذا كنت تريد الاستعداد فقط لمقابلة العمل عليك أن تختار لغة برمجة واحدة للمقابلة</span></h2>
+<h3 dir="rtl">في هذه المقالة سأكمل مقدمة هذه السلسلة حيث ستتعرف على المزيد من المعلومات المطلوب معرفتها قبل البدء في الإعداد الفعلي لتصبح مهندس برمجيات قادر على المنافسة في السوق العالمي</h3>
+<h3 dir="rtl"><span style="font-weight: 400;">إذا كنت تريد الاستعداد فقط لمقابلة العمل عليك أن تختار لغة برمجة واحدة للمقابلة</span></h3>
 <p dir="rtl"><span style="font-weight: 400;">يمكنك القراءة أكثر من هذا الرابط </span><a href="https://googleyasheck.com/important-pick-one-language-for-the-google-interview/"><span style="font-weight: 400;">Important: Pick One Language for the Google Interview</span></a></p>
 <p dir="rtl"><span style="font-weight: 400;">في الغالب يمكنك اختيار أي لغة لأداء مقابلة العمل بها, ولكن هذه اللغات هي الأشهر بين للشركات الكبرى:</span></p>
 
@@ -29,7 +30,7 @@ views:
  	<li style="font-weight: 400;"><span style="font-weight: 400;">JavaScript</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Ruby</span></li>
 </ul>
-<p dir="rtl"><span style="font-weight: 400;">يجب أن تكون متمكنا من اللغة التي اخترتها و أيضا في غاية الارتياح عندما تستخدمها في البرمجة.</span></p>
+<p dir="rtl"><span style="text-decoration: underline;"><span style="font-weight: 400;">يجب أن تكون متمكنا من اللغة التي اخترتها و أيضا في غاية الارتياح عندما تستخدمها في البرمجة.</span></span></p>
 <p dir="rtl"><span style="font-weight: 400;">يمكنك قراءة المزيد عن اختيار لغة البرمجة لمقابلة العمل من هنا:</span></p>
 
 <ul dir="rtl">
