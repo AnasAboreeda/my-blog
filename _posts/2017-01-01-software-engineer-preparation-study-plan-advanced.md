@@ -9,19 +9,19 @@ permalink: >
   http://anas.eu-west-1.elasticbeanstalk.com/blog/software-engineer-preparation-study-plan-advanced/
 published: true
 views:
-  - "1"
+  - "2"
 ---
-<h2 style="text-align: right;">دي خطة تفصيلية للناس اللي عندها خبرة مسبقة بالبرمجة و محتاجة تأهل نفسها لمقابلات العمل في أي من الشركات الكبرى</h2>
-<ul>
+<h2 dir="rtl">دي خطة تفصيلية للناس اللي عندها خبرة مسبقة بالبرمجة و محتاجة تأهل نفسها لمقابلات العمل في أي من الشركات الكبرى</h2>
+<ul dir="rtl">
  	<li dir="rtl" style="text-align: right;">هنحتاج نمشي على الخطة دي بالترتيب من الأول للآخر علشان هي حاجات مترتبة بصورة كبيرة على بعض</li>
  	<li dir="rtl" style="text-align: right;">ممكن تطبعها و تعلم على المواضيع اللي خلصتها و بكده هتحس بالإنجاز و تبقى مدرك فاضلك ايه&nbsp;</li>
  	<li dir="rtl" style="text-align: right;">بالنسبة للناس المبتدأة أو اللي مش حاسة إن الخطة دي مناسبة ليها ممكن أحاول أجهز لهم خطة مناسبة ليهم لو لقيت فعلا في ناس محتاجاها</li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Algorithmic_complexity__BigO__Asymptotic_analysis_0"></a>Algorithmic complexity / Big-O / Asymptotic analysis</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Algorithmic_complexity__BigO__Asymptotic_analysis_0"></a>Algorithmic complexity / Big-O / Asymptotic analysis</h2>
+<ul dir="ltr">
  	<li>nothing to implement</li>
  	<li><a href="https://www.youtube.com/watch?v=iOq5kSKqeR4">Harvard CS50 - Asymptotic Notation (video)</a></li>
  	<li><a href="https://www.youtube.com/watch?v=V6mKVRU1evU">Big O Notations (general quick tutorial) (video)</a></li>
@@ -48,10 +48,10 @@ views:
  	<li><a href="http://bigocheatsheet.com/">Cheat sheet</a></li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Data_Structures_24"></a>Data Structures</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Data_Structures_24"></a>Data Structures</h2>
+<ul dir="ltr">
  	<li>
 <h3><a id="Arrays_26"></a>Arrays</h3>
 <ul>
@@ -112,9 +112,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Linked_Lists_63"></a>Linked Lists</h3>
 <ul>
@@ -165,9 +165,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Stack_96"></a>Stack</h3>
 <ul>
@@ -178,9 +178,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Queue_101"></a>Queue</h3>
 <ul>
@@ -215,9 +215,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Hash_table_122"></a>Hash table</h3>
 <ul>
@@ -261,10 +261,10 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="More_Knowledge_150"></a>More Knowledge</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="More_Knowledge_150"></a>More Knowledge</h2>
+<ul dir="ltr">
  	<li>
 <h3><a id="Binary_search_152"></a>Binary search</h3>
 <ul>
@@ -281,9 +281,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Bitwise_operations_160"></a>Bitwise operations</h3>
 <ul>
@@ -333,10 +333,10 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Trees_187"></a>Trees</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Trees_187"></a>Trees</h2>
+<ul dir="ltr">
  	<li>
 <h3><a id="Trees__Notes__Background_189"></a>Trees - Notes &amp; Background</h3>
 <ul>
@@ -364,9 +364,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Binary_search_trees_BSTs_211"></a>Binary search trees: BSTs</h3>
 <ul>
@@ -411,9 +411,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Heap__Priority_Queue__Binary_Heap_241"></a>Heap / Priority Queue / Binary Heap</h3>
 <ul>
@@ -454,10 +454,10 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Sorting_270"></a>Sorting</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Sorting_270"></a>Sorting</h2>
+<ul dir="ltr">
  	<li>Notes:
 <ul>
  	<li>Implement sorts &amp; know best case/worst case, average complexity of each:
@@ -556,15 +556,15 @@ views:
 </ul>
 </li>
 </ul>
-<p style="text-align: left;">If you need more detail on this subject, see “Sorting” section in <a href="#additional-detail-on-some-subjects">Additional Detail on Some Subjects</a></p>
+<p dir="ltr">If you need more detail on this subject, see “Sorting” section in <a href="#additional-detail-on-some-subjects">Additional Detail on Some Subjects</a></p>
 
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Graphs_344"></a>Graphs</h2>
-<p style="text-align: left;">Graphs can be used to represent many problems in computer science, so this section is long like trees and sorting were.</p>
+<h2 dir="ltr"><a id="Graphs_344"></a>Graphs</h2>
+<p dir="ltr">Graphs can be used to represent many problems in computer science, so this section is long like trees and sorting were.</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>Notes from Yegge:
 <ul>
  	<li>There are three basic ways to represent a graph in memory:
@@ -644,13 +644,13 @@ views:
 </ul>
 </li>
 </ul>
-<p style="text-align: left;">You’ll get more graph practice in Skiena’s book (see Books section below) and the interview books</p>
+<p dir="ltr">You’ll get more graph practice in Skiena’s book (see Books section below) and the interview books</p>
 
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Even_More_Knowledge_408"></a>Even More Knowledge</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Even_More_Knowledge_408"></a>Even More Knowledge</h2>
+<ul dir="ltr">
  	<li>
 <h3><a id="Recursion_410"></a>Recursion</h3>
 <ul>
@@ -673,9 +673,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="ObjectOriented_Programming_421"></a>Object-Oriented Programming</h3>
 <ul>
@@ -724,9 +724,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Design_patterns_443"></a>Design patterns</h3>
 <ul>
@@ -766,9 +766,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Combinatorics_n_choose_k__Probability_471"></a>Combinatorics (n choose k) &amp; Probability</h3>
 <ul>
@@ -793,9 +793,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="NP_NPComplete_and_Approximation_Algorithms_481"></a>NP, NP-Complete and Approximation Algorithms</h3>
 <ul>
@@ -830,9 +830,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Caches_502"></a>Caches</h3>
 <ul>
@@ -853,9 +853,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Processes_and_Threads_511"></a>Processes and Threads</h3>
 <ul>
@@ -913,9 +913,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Papers_545"></a>Papers</h3>
 <ul>
@@ -965,9 +965,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Testing_571"></a>Testing</h3>
 <ul>
@@ -1001,9 +1001,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Scheduling_590"></a>Scheduling</h3>
 <ul>
@@ -1020,9 +1020,9 @@ views:
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="String_searching__manipulations_598"></a>String searching &amp; manipulations</h3>
 <ul>
@@ -1041,10 +1041,10 @@ views:
 If you need more detail on this subject, see “String Matching” section in <a href="#additional-detail-on-some-subjects">Additional Detail on Some Subjects</a></li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="System_Design_Scalability_Data_Handling_612"></a>System Design, Scalability, Data Handling</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="System_Design_Scalability_Data_Handling_612"></a>System Design, Scalability, Data Handling</h2>
+<ul dir="ltr">
  	<li><strong>You can expect system design questions if you have 4+ years of experience.</strong></li>
  	<li>Scalability and System Design are very large topics with many topics and resources, sincethere is a lot to consider when designing a software/hardware system that can scale.Expect to spend quite a bit of time on this.</li>
  	<li>Considerations from Yegge:
@@ -1213,13 +1213,13 @@ If you need more detail on this subject, see “String Matching” section in <a
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Final_Review_739"></a>Final Review</h2>
-<pre><code>This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
+<h2 dir="ltr"><a id="Final_Review_739"></a>Final Review</h2>
+<pre dir="ltr"><code>This section will have shorter videos that can you watch pretty quickly to review most of the important concepts.
 It's nice if you want a refresher often.
 </code></pre>
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>Series of 2-3 minutes short subject videos (23 videos)
 <ul>
  	<li><a href="https://www.youtube.com/watch?v=r4r1DZcx1cM&amp;list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&amp;index=22">Videos</a></li>
@@ -1264,14 +1264,14 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Coding_Question_Practice_777"></a>Coding Question Practice</h2>
-<p style="text-align: left;">Now that you know all the computer science topics above, it’s time to practice answering coding problems.</p>
-<p style="text-align: left;"><strong>Coding question practice is not about memorising answers to programming problems.</strong></p>
-<p style="text-align: left;">Why you need to practice doing programming problems:</p>
+<h2 dir="ltr"><a id="Coding_Question_Practice_777"></a>Coding Question Practice</h2>
+<p dir="ltr">Now that you know all the computer science topics above, it’s time to practice answering coding problems.</p>
+<p dir="ltr"><strong>Coding question practice is not about memorising answers to programming problems.</strong></p>
+<p dir="ltr">Why you need to practice doing programming problems:</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>problem recognition, and where the right data structures and algorithms fit in</li>
  	<li>gathering requirements for the problem</li>
  	<li>talking your way through the problem like you will in the interview</li>
@@ -1279,21 +1279,21 @@ It's nice if you want a refresher often.
  	<li>coming up with time and space complexity for your solutions</li>
  	<li>testing your solutions</li>
 </ul>
-<p style="text-align: left;">There is a great intro for methodical, communicative problem-solving in an interview. You’ll get this from the programming</p>
-<p style="text-align: left;">interview books, too, but I found this outstanding:</p>
-<p style="text-align: left;"><a href="http://www.hiredintech.com/algorithm-design/">Algorithm design canvas</a></p>
-<p style="text-align: left;"><a href="https://googleyasheck.com/my-process-for-coding-interview-exercises/">My Process for Coding Interview (Book) Exercises</a></p>
-<p style="text-align: left;">Supplemental:</p>
+<p dir="ltr">There is a great intro for methodical, communicative problem-solving in an interview. You’ll get this from the programming</p>
+<p dir="ltr">interview books, too, but I found this outstanding:</p>
+<p dir="ltr"><a href="http://www.hiredintech.com/algorithm-design/">Algorithm design canvas</a></p>
+<p dir="ltr"><a href="https://googleyasheck.com/my-process-for-coding-interview-exercises/">My Process for Coding Interview (Book) Exercises</a></p>
+<p dir="ltr">Supplemental:</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/mathematics-for-topcoders/">Mathematics for Topcoders</a></li>
  	<li><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/">Dynamic Programming – From Novice to Advanced</a></li>
  	<li><a href="https://web.archive.org/web/20160906124824/http://courses.csail.mit.edu/iap/interview/materials.php">MIT Interview Materials</a></li>
  	<li><a href="http://exercism.io/languages">Exercises for getting better at a given language</a></li>
 </ul>
-<p style="text-align: left;"><strong>Read and Do Programming Problems (in this order):</strong></p>
+<p dir="ltr"><strong>Read and Do Programming Problems (in this order):</strong></p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-047012167X.html">Programming Interviews Exposed: Secrets to Landing Your Next Job, 2nd Edition</a>
 <ul>
  	<li>answers in C, C++ and Java</li>
@@ -1305,22 +1305,22 @@ It's nice if you want a refresher often.
 </ul>
 </li>
 </ul>
-<p style="text-align: left;">See <a href="#book-list">Book List above</a></p>
+<p dir="ltr">See <a href="#book-list">Book List above</a></p>
 
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Coding_exerciseschallenges_819"></a>Coding exercises/challenges</h2>
-<p style="text-align: left;">Once you’ve learned your brains out, put those brains to work.</p>
-<p style="text-align: left;">Take coding challenges every day, as many as you can.</p>
+<h2 dir="ltr"><a id="Coding_exerciseschallenges_819"></a>Coding exercises/challenges</h2>
+<p dir="ltr">Once you’ve learned your brains out, put those brains to work.</p>
+<p dir="ltr">Take coding challenges every day, as many as you can.</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-find-a-solution/">How to Find a Solution</a></li>
  	<li><a href="https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/">How to Dissect a Topcoder Problem Statement</a></li>
 </ul>
-<p style="text-align: left;">Challenge sites:</p>
+<p dir="ltr">Challenge sites:</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><a href="https://leetcode.com/">LeetCode</a></li>
  	<li><a href="https://www.topcoder.com/">TopCoder</a></li>
  	<li><a href="https://projecteuler.net/index.php?section=problems">Project Euler (math-focused)</a></li>
@@ -1331,16 +1331,16 @@ It's nice if you want a refresher often.
  	<li><a href="http://www.geeksforgeeks.org/">Geeks for Geeks</a></li>
  	<li><a href="https://www.interviewbit.com/invite/icjf">InterviewBit</a></li>
 </ul>
-<p style="text-align: left;">Maybe:</p>
+<p dir="ltr">Maybe:</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><a href="http://www.gainlo.co/">Mock interviewers from big companies</a></li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Once_youre_closer_to_the_interview_841"></a>Once you’re closer to the interview</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Once_youre_closer_to_the_interview_841"></a>Once you’re closer to the interview</h2>
+<ul dir="ltr">
  	<li>Cracking The Coding Interview Set 2 (videos):
 <ul>
  	<li><a href="https://www.youtube.com/watch?v=4NIb9l3imAo">Cracking The Code Interview</a></li>
@@ -1350,21 +1350,21 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Your_Resume_848"></a>Your Resume</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Your_Resume_848"></a>Your Resume</h2>
+<ul dir="ltr">
  	<li><a href="http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html">Ten Tips for a (Slightly) Less Awful Resume</a></li>
  	<li>See Resume prep items in Cracking The Coding Interview and back of Programming Interviews Exposed</li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Be_thinking_of_for_when_the_interview_comes_854"></a>Be thinking of for when the interview comes</h2>
-<p style="text-align: left;">Think of about 20 interview questions you’ll get, along with the lines of the items below. Have 2-3 answers for each.</p>
-<p style="text-align: left;">Have a story, not just data, about something you accomplished.</p>
+<h2 dir="ltr"><a id="Be_thinking_of_for_when_the_interview_comes_854"></a>Be thinking of for when the interview comes</h2>
+<p dir="ltr">Think of about 20 interview questions you’ll get, along with the lines of the items below. Have 2-3 answers for each.</p>
+<p dir="ltr">Have a story, not just data, about something you accomplished.</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>Why do you want this job?</li>
  	<li>What’s a tough problem you’ve solved?</li>
  	<li>Biggest challenges faced?</li>
@@ -1379,12 +1379,12 @@ It's nice if you want a refresher often.
  	<li>What would you have done better at [job x / project y]?</li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Have_questions_for_the_interviewer_872"></a>Have questions for the interviewer</h2>
-<pre><code>Some of mine (I already may know answer to but want their opinion or team perspective):
+<h2 dir="ltr"><a id="Have_questions_for_the_interviewer_872"></a>Have questions for the interviewer</h2>
+<pre dir="ltr"><code>Some of mine (I already may know answer to but want their opinion or team perspective):
 </code></pre>
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>How large is your team?</li>
  	<li>What does your dev cycle look like? Do you do waterfall/sprints/agile?</li>
  	<li>Are rushes to deadlines common? Or is there flexibility?</li>
@@ -1396,10 +1396,10 @@ It's nice if you want a refresher often.
  	<li>What is the work life like?</li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Additional_Books_910"></a>Additional Books</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Additional_Books_910"></a>Additional Books</h2>
+<ul dir="ltr">
  	<li><a href="http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&amp;tg=info">The Unix Programming Environment</a>
 <ul>
  	<li>an oldie but a goodie</li>
@@ -1430,10 +1430,10 @@ It's nice if you want a refresher often.
  	<li><a href="https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/">UNIX and Linux System Administration Handbook, 4th Edition</a></li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Additional_Learning_926"></a>Additional Learning</h2>
-<ul style="text-align: left;">
+<h2 dir="ltr"><a id="Additional_Learning_926"></a>Additional Learning</h2>
+<ul dir="ltr">
  	<li>
 <h3><a id="Dynamic_Programming_928"></a>Dynamic Programming</h3>
 <ul>
@@ -1472,9 +1472,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Compilers_953"></a>Compilers</h3>
 <ul>
@@ -1486,9 +1486,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Floating_Point_Numbers_959"></a>Floating Point Numbers</h3>
 <ul>
@@ -1498,9 +1498,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Unicode_963"></a>Unicode</h3>
 <ul>
@@ -1510,9 +1510,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Endianness_967"></a>Endianness</h3>
 <ul>
@@ -1528,9 +1528,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Emacs_and_vim_974"></a>Emacs and vi(m)</h3>
 <ul>
@@ -1569,9 +1569,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Unix_command_line_tools_995"></a>Unix command line tools</h3>
 <ul>
@@ -1591,9 +1591,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Information_theory_videos_1009"></a>Information theory (videos)</h3>
 <ul>
@@ -1610,9 +1610,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Parity__Hamming_Code_videos_1017"></a>Parity &amp; Hamming Code (videos)</h3>
 <ul>
@@ -1629,9 +1629,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Entropy_1025"></a>Entropy</h3>
 <ul>
@@ -1642,9 +1642,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Cryptography_1030"></a>Cryptography</h3>
 <ul>
@@ -1657,9 +1657,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Compression_1037"></a>Compression</h3>
 <ul>
@@ -1680,9 +1680,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Networking_1049"></a>Networking</h3>
 <ul>
@@ -1702,9 +1702,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Computer_Security_1063"></a>Computer Security</h3>
 <ul>
@@ -1728,9 +1728,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Garbage_collection_1078"></a>Garbage collection</h3>
 <ul>
@@ -1743,9 +1743,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Parallel_Programming_1085"></a>Parallel Programming</h3>
 <ul>
@@ -1755,9 +1755,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Messaging_Serialization_and_Queueing_Systems_1089"></a>Messaging, Serialization, and Queueing Systems</h3>
 <ul>
@@ -1806,9 +1806,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Fast_Fourier_Transform_1111"></a>Fast Fourier Transform</h3>
 <ul>
@@ -1821,9 +1821,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Bloom_Filter_1118"></a>Bloom Filter</h3>
 <ul>
@@ -1836,9 +1836,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="HyperLogLog_1125"></a>HyperLogLog</h3>
 <ul>
@@ -1847,9 +1847,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="LocalitySensitive_Hashing_1128"></a>Locality-Sensitive Hashing</h3>
 <ul>
@@ -1860,9 +1860,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="van_Emde_Boas_Trees_1133"></a>van Emde Boas Trees</h3>
 <ul>
@@ -1872,9 +1872,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Augmented_Data_Structures_1137"></a>Augmented Data Structures</h3>
 <ul>
@@ -1883,9 +1883,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Tries_1140"></a>Tries</h3>
 <ul>
@@ -1914,9 +1914,9 @@ It's nice if you want a refresher often.
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Balanced_search_trees_1158"></a>Balanced search trees</h3>
 <ul>
@@ -1954,9 +1954,7 @@ It's nice if you want a refresher often.
  	<li><strong>Red/black trees</strong>
 <ul>
  	<li>these are a translation of a 2-3 tree (see below)</li>
- 	<li>In practice:Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.Not only does this make them valuable in time-sensitive applications such as real-time applications,but it makes them valuable building blocks in other data structures which provide worst-case guarantees;for example, many data structures used in computational geometry can be based on red–black trees, andthe Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
-
-the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
+ 	<li>In practice:Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.Not only does this make them valuable in time-sensitive applications such as real-time applications,but it makes them valuable building blocks in other data structures which provide worst-case guarantees;for example, many data structures used in computational geometry can be based on red–black trees, andthe Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
 
 hashcodes, a Red-Black tree is used.</li>
  	<li><a href="https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&amp;t=3871">Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)</a></li>
@@ -2005,9 +2003,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="kD_Trees_1249"></a>k-D Trees</h3>
 <ul>
@@ -2019,9 +2017,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Skip_lists_1255"></a>Skip lists</h3>
 <ul>
@@ -2032,9 +2030,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Network_Flows_1260"></a>Network Flows</h3>
 <ul>
@@ -2045,9 +2043,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Disjoint_Sets__Union_Find_1265"></a>Disjoint Sets &amp; Union Find</h3>
 <ul>
@@ -2057,9 +2055,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Math_for_Fast_Processing_1269"></a>Math for Fast Processing</h3>
 <ul>
@@ -2069,9 +2067,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Treap_1273"></a>Treap</h3>
 <ul>
@@ -2083,9 +2081,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Linear_Programming_videos_1279"></a>Linear Programming (videos)</h3>
 <ul>
@@ -2097,9 +2095,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Geometry_Convex_hull_videos_1285"></a>Geometry, Convex hull (videos)</h3>
 <ul>
@@ -2110,9 +2108,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Machine_Learning_1293"></a>Machine Learning</h3>
 <ul>
@@ -2155,9 +2153,9 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li>
 <h3><a id="Go_1320"></a>Go</h3>
 <ul>
@@ -2179,14 +2177,14 @@ hashcodes, a Red-Black tree is used.</li>
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Additional_Detail_on_Some_Subjects_1332"></a>Additional Detail on Some Subjects</h2>
-<pre><code>I added these to reinforce some ideas already presented above, but didn't want to include them
+<h2 dir="ltr"><a id="Additional_Detail_on_Some_Subjects_1332"></a>Additional Detail on Some Subjects</h2>
+<pre dir="ltr"><code>I added these to reinforce some ideas already presented above, but didn't want to include them
 above because it's just too much. It's easy to overdo it on a subject.
 You want to get hired in this century, right?
 </code></pre>
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><strong>Union-Find</strong>
 <ul>
  	<li><a href="https://www.coursera.org/learn/data-structures/lecture/JssSY/overview">Overview</a></li>
@@ -2284,12 +2282,12 @@ You want to get hired in this century, right?
 </li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Video_Series_1402"></a>Video Series</h2>
-<p style="text-align: left;">Sit back and enjoy. “Netflix and skill” :P</p>
+<h2 dir="ltr"><a id="Video_Series_1402"></a>Video Series</h2>
+<p dir="ltr">Sit back and enjoy. “Netflix and skill” :P</p>
 
-<ul style="text-align: left;">
+<ul dir="ltr">
  	<li><a href="https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr">List of individual Dynamic Programming problems (each is short)</a></li>
  	<li><a href="https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0">x86 Architecture, Assembly, Applications (11 videos)</a></li>
  	<li><a href="https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8">MIT 18.06 Linear Algebra, Spring 2005 (35 videos)</a></li>
@@ -2329,10 +2327,10 @@ You want to get hired in this century, right?
  	<li><a href="https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&amp;view=50&amp;sort=dd">Graph Theory by Sarada Herke (67 videos)</a></li>
 </ul>
 
-<hr>
+<hr dir="ltr">
 
-<h2 style="text-align: left;"><a id="Computer_Science_Courses_1466"></a>Computer Science Courses</h2>
-<ul>
- 	<li style="text-align: left;"><a href="https://github.com/open-source-society/computer-science">Directory of Online CS Courses</a></li>
- 	<li style="text-align: left;"><a href="https://github.com/prakhar1989/awesome-courses">Directory of CS Courses (many with online lectures)</a></li>
+<h2 dir="ltr"><a id="Computer_Science_Courses_1466"></a>Computer Science Courses</h2>
+<ul dir="ltr">
+ 	<li><a href="https://github.com/open-source-society/computer-science">Directory of Online CS Courses</a></li>
+ 	<li><a href="https://github.com/prakhar1989/awesome-courses">Directory of CS Courses (many with online lectures)</a></li>
 </ul>
