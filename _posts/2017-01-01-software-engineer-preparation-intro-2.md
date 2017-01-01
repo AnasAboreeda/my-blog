@@ -12,7 +12,7 @@ permalink: >
   http://anas.eu-west-1.elasticbeanstalk.com/blog/software-engineer-preparation-intro-2/
 published: true
 views:
-  - "1"
+  - "2"
 ---
 <h2 dir="rtl">&nbsp;<span style="font-weight: 400;">إذا كنت تريد الاستعداد فقط لمقابلة العمل عليك أن تختار لغة برمجة واحدة للمقابلة</span></h2>
 <p dir="rtl"><span style="font-weight: 400;">يمكنك القراءة أكثر من هذا الرابط </span><a href="https://googleyasheck.com/important-pick-one-language-for-the-google-interview/"><span style="font-weight: 400;">Important: Pick One Language for the Google Interview</span></a></p>
