@@ -9,13 +9,18 @@ permalink: >
   http://anas.eu-west-1.elasticbeanstalk.com/blog/software-engineer-preparation-study-plan-advanced/
 published: true
 views:
-  - "22"
+  - "30"
 ---
 <h2 dir="rtl">دي خطة تفصيلية للناس اللي عندها خبرة مسبقة بالبرمجة و محتاجة تأهل نفسها لمقابلات العمل في أي من الشركات الكبرى</h2>
 <ul dir="rtl">
  	<li dir="rtl" style="text-align: right;">هنحتاج نمشي على الخطة دي بالترتيب من الأول للآخر علشان هي حاجات مترتبة بصورة كبيرة على بعض</li>
  	<li dir="rtl" style="text-align: right;">ممكن تطبعها و تعلم على المواضيع اللي خلصتها و بكده هتحس بالإنجاز و تبقى مدرك فاضلك ايه&nbsp;</li>
  	<li dir="rtl" style="text-align: right;">بالنسبة للناس المبتدأة أو اللي مش حاسة إن الخطة دي مناسبة ليها ممكن أحاول أجهز لهم خطة مناسبة ليهم لو لقيت فعلا في ناس محتاجاها</li>
+</ul>
+<h3 dir="rtl">المقالات السابقة في السلسلة:</h3>
+<ul>
+ 	<li dir="rtl" style="text-align: right;"><a href="http://anasfullstack.com/blog/software-engineer-preparation-introduction/">مقدمة &nbsp;السلسلة</a></li>
+ 	<li dir="rtl" style="text-align: right;"><a href="http://anasfullstack.com/blog/software-engineer-preparation-intro-2/">مقدمة ٢ - قبل أن تبدأ في الاستعداد</a></li>
 </ul>
 
 <hr dir="ltr">
