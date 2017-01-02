@@ -9,7 +9,7 @@ permalink: >
   http://anas.eu-west-1.elasticbeanstalk.com/blog/software-engineer-preparation-study-plan-advanced/
 published: true
 views:
-  - "2"
+  - "22"
 ---
 <h2 dir="rtl">دي خطة تفصيلية للناس اللي عندها خبرة مسبقة بالبرمجة و محتاجة تأهل نفسها لمقابلات العمل في أي من الشركات الكبرى</h2>
 <ul dir="rtl">
@@ -1954,9 +1954,7 @@ It's nice if you want a refresher often.
  	<li><strong>Red/black trees</strong>
 <ul>
  	<li>these are a translation of a 2-3 tree (see below)</li>
- 	<li>In practice:Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.Not only does this make them valuable in time-sensitive applications such as real-time applications,but it makes them valuable building blocks in other data structures which provide worst-case guarantees;for example, many data structures used in computational geometry can be based on red–black trees, andthe Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
-
-hashcodes, a Red-Black tree is used.</li>
+ 	<li>In practice:Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.Not only does this make them valuable in time-sensitive applications such as real-time applications,but it makes them valuable building blocks in other data structures which provide worst-case guarantees;for example, many data structures used in computational geometry can be based on red–black trees, andthe Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poorhashcodes, a Red-Black tree is used.</li>
  	<li><a href="https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&amp;t=3871">Aduni - Algorithms - Lecture 4 (link jumps to starting point) (video)</a></li>
  	<li><a href="https://www.youtube.com/watch?v=hm2GHwyKF1o&amp;list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&amp;index=5">Aduni - Algorithms - Lecture 5 (video)</a></li>
  	<li><a href="https://en.wikipedia.org/wiki/Red%E2%80%93black_tree">Black Tree</a></li>
